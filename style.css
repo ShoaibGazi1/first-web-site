@@ -16,6 +16,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -40,3 +41,9 @@ section{
     background-repeat: no-repeat;
     
 }
+.future-goal{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+ 
